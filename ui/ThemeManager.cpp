@@ -40,6 +40,10 @@ void ThemeManager::ApplyTheme(const QString &theme) {
                         path = ":/themes/feiyangqingyun/qss/blacksoft.css";
                         replace[":/qss/"] = ":/themes/feiyangqingyun/qss/";
                         break;
+                    case 4:
+                        path = ":/themes/feiyangqingyun/qss/darkstyle.qss";
+                        replace[":/qss/"] = ":/themes/feiyangqingyun/qss/";
+                        break;
                     default:
                         return;
                 }
