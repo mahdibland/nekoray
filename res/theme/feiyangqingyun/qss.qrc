@@ -304,5 +304,6 @@
         <file>qss/qdarkstyle/window_undock_focus@2x.png</file>
         <file>qss/qdarkstyle/window_undock_pressed.png</file>
         <file>qss/qdarkstyle/window_undock_pressed@2x.png</file>
+        <file>qss/qdarkstyle.qss</file>
     </qresource>
 </RCC>
