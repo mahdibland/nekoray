@@ -293,6 +293,11 @@
               <string notr="true">darkstyle</string>
              </property>
             </item>
+            <item>
+             <property name="text">
+              <string notr="true">qdarkstyle</string>
+             </property>
+            </item>
            </widget>
           </item>
          </layout>
